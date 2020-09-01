@@ -1,5 +1,8 @@
+* {
+  font-family: Helvetica, sans-serif;
+}
+
 header {
-  font-family: Helvetica;
   font-size: 100px;
   font-weight: bold;
   color: khaki;
@@ -8,7 +11,6 @@ header {
 }
 
 .subtitle {
-  font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
   color: white;
@@ -29,18 +31,11 @@ header {
   display: block;
 }
 
-h3 {
+p {
   font-weight: normal;
 }
 
-.prod_name {
-  font-family: Helvetica;
-  font-size: 20px;
-  font-weight: bold;
-}
-
 .price {
-  font-family: Helvetica;
   font-weight: bold;
   color: blue;
 }
